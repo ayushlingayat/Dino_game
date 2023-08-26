@@ -2,7 +2,7 @@
 <h3 align="center">I Am a Front End Developer from India</h3>
 
 ## Website Preview
-#### Theme Switcher WebPage
+#### Dino Game WebPage
 
 
 <img src="dino.png" width="900">
